@@ -341,10 +341,10 @@
     minimatch "^9.0.3"
     plist "^3.1.0"
 
-"@electron/windows-sign@^1.0.0":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@electron/windows-sign/-/windows-sign-1.1.3.tgz#52023d17d8f6c686d934f518be76736f6f2f0aef"
-  integrity sha512-OqVSdAe+/88fIjvTDWiy+5Ho1nXsiBhE5RTsIQ6M/zcxcDAEP2TlQCkOyusItnmzXRN+XTFaK9gKhiZ6KGyXQw==
+"@electron/windows-sign@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@electron/windows-sign/-/windows-sign-1.2.2.tgz#8ceaad52d5c1eb18702f48103d5f3bc7c338fa9d"
+  integrity sha512-dfZeox66AvdPtb2lD8OsIIQh12Tp0GNCRUDfBHIKGpbmopZto2/A8nSpYYLoedPIHpqkeblZ/k8OV0Gy7PYuyQ==
   dependencies:
     cross-dirname "^0.1.0"
     debug "^4.3.4"
