@@ -28,7 +28,7 @@
   "dependencies": {
     "@electron/asar": "^3.2.13",
     "@electron/get": "^3.0.0",
-    "@electron/notarize": "^2.1.0",
+    "@electron/notarize": "^2.5.0",
     "@electron/osx-sign": "^1.0.5",
     "@electron/universal": "^2.0.1",
     "@electron/windows-sign": "^1.0.0",
